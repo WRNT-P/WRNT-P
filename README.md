@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Woraneti Phicharanan
 =============================================================================================================================================
 
-🤖AI Engineer, 🧑🏻‍💻 Full-Stack Developer, 📍ICT Mahidol
+3rd-year 📍 ICT Mahidol · 🧑🏻‍💻Software Engineer (🤖Applied AI · Business Analysis)
 ----------------------------------------------------------
 
 Building AI-powered applications that solve real-world problems.
