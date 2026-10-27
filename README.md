@@ -6,20 +6,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Building AI-powered applications that solve real-world problems.
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [woraneti2548@gmail.com](mailto:woraneti2548@gmail.com)
-* 🧠  I'm currently learning a software requirements and database system
+* 🏗️  Building billing, pricing and 3D quotation tools for a steel-building company
+* 🏆  Team lead & backend developer of PathGuard AI, a National Finalist (dementia wandering detection)
+* 🌍  Based in Thailand
+* ✉️  Contact: [woraneti2548@gmail.com](mailto:woraneti2548@gmail.com)
+
+### Skills
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,js,vue,threejs,docker,git,html,css" alt="Skills" />
 </p>
 
 ### Socials
