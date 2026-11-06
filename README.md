@@ -11,6 +11,12 @@ Building AI-powered applications that solve real-world problems.
 * 🌍  Based in Thailand
 * ✉️  Contact: [woraneti2548@gmail.com](mailto:woraneti2548@gmail.com)
 
+### Project & Skill Map
+
+<p align="center">
+  <img src="./skill-map.svg" alt="Map of my projects and the skills used in each" width="100%" />
+</p>
+
 ### Skills
 
 <p align="left">
