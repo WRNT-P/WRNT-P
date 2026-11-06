@@ -29,11 +29,11 @@ I enjoy the step before the code: understanding how a business runs, deciding wh
 
 | Area | Tools |
 |---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,java" height="40" alt="Python, JavaScript, Java" /> &nbsp;SQL |
-| **Backend & data** | <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,firebase" height="40" alt="FastAPI, Node.js, PostgreSQL, MySQL, Firebase" /> &nbsp;REST APIs |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,java" height="40" alt="Python, JavaScript, Java" /> <img src="./icon-sql.svg" height="40" alt="SQL" /> |
+| **Backend & data** | <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,firebase" height="40" alt="FastAPI, Node.js, PostgreSQL, MySQL, Firebase" /> <img src="./icon-rest.svg" height="40" alt="REST APIs" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=vue,threejs,html,css" height="40" alt="Vue.js, Three.js, HTML, CSS" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=docker,git" height="40" alt="Docker, Git" /> |
-| **AI tools** | Claude Code, GPT agents |
+| **AI tools** | <img src="./icon-ai.svg" height="40" alt="AI agents" /><br><sub>Claude Code · GPT agents</sub> |
 | **Business** | Requirements gathering, business process analysis, Agile/Scrum |
 
 ## Contact
