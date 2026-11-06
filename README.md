@@ -10,23 +10,13 @@ I enjoy the step before the code: understanding how a business runs, deciding wh
 
 ## Selected work
 
-**Warehouse Studio** · solo · Benjamin PEB (steel buildings)\
-A 3D configurator that lets dealers design a steel warehouse with the customer and send it as a quotation request in minutes. I rebuilt the company's Excel quotation formulas as a server-side pricing engine, so every screen shows the same price.\
-<sub>Three.js · JavaScript · Vue.js · Docker</sub>
-
-**ERP Platform, billing module** · team of 2 · in development\
-Milestone billing that always adds up to the contract total, down to the satang, with VAT and rounding handled in one shared module, plus audit-logged document numbering so every billing document can be traced.\
-<sub>Vue.js · Docker</sub>
-
-**PathGuard AI** · team lead & backend · National Finalist\
-Alerts caregivers within 2 minutes when a person with dementia wanders. I built the backend (37 REST endpoints, 400+ automated tests) and a risk-scoring engine that combines Isolation Forest, a Markov chain and Thai MOPH triage rules.\
-<sub>Python · FastAPI · PostgreSQL · Firebase</sub>
-
-**CrowdX** · team lead · MUICT x The Mall Hackathon 2026, Team Synergy Award\
-Counts mall visitors in real time from existing CCTV without storing faces. I gathered requirements from The Mall Group and built the business engine for break-even attendance and cost per visitor.\
-<sub>YOLO · ByteTrack</sub>
-
-Also: a personal multi-agent dev setup where a GPT agent plans and reviews, Claude Code agents write the code, and nothing merges without my sign-off.
+| Project | What I did | Built with |
+|---|---|---|
+| **Warehouse Studio**<br><sub>Solo · Benjamin PEB</sub> | A 3D tool that lets dealers design a steel warehouse with the customer and send it as a quotation request in minutes. Rebuilt the company's Excel quotation formulas as a server-side pricing engine, so every screen shows the same price. | Three.js, JavaScript, Vue.js, Docker |
+| **ERP Platform, billing module**<br><sub>Team of 2 · in development</sub> | Milestone billing that always adds up to the contract total, down to the satang, with VAT and rounding in one shared module. Audit-logged document numbering, so every billing document can be traced. | Vue.js, Docker |
+| **PathGuard AI**<br><sub>Team lead & backend · National Finalist</sub> | Built the backend (37 REST endpoints, 400+ automated tests) and a risk-scoring engine (Isolation Forest, Markov chain, Thai MOPH triage rules) that alerts caregivers within 2 minutes when a person with dementia wanders. | Python, FastAPI, PostgreSQL, Firebase |
+| **CrowdX**<br><sub>Team lead · Hackathon award</sub> | MUICT x The Mall Hackathon 2026, Team Synergy Award. Counts mall visitors in real time from existing CCTV without storing faces. Gathered requirements from The Mall Group and built the business engine for break-even attendance and cost per visitor. | YOLO, ByteTrack |
+| **Multi-Agent Dev System**<br><sub>Personal project</sub> | A GPT agent plans and reviews each task, Claude Code agents write the code, and nothing merges without my sign-off. | Claude Code, GPT agents |
 
 ## Project & skill map
 
