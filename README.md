@@ -5,7 +5,8 @@ Third-year ICT student, Mahidol University (International Program) · Bangkok, T
 
 I enjoy the step before the code: understanding how a business runs, deciding which work software or AI should take over, then building it.
 
-**Open to:** Summer 2027 internship (June – July, Bangkok) in software engineering, business analysis or tech / AI consulting.
+> [!NOTE]
+> **Open to:** Summer 2027 internship (June – July, Bangkok) in software engineering, business analysis or tech / AI consulting.
 
 ## Selected work
 
@@ -38,10 +39,11 @@ Also: a personal multi-agent dev setup where a GPT agent plans and reviews, Clau
 
 | Area | Tools |
 |---|---|
-| **Languages** | Python, JavaScript, SQL, Java |
-| **Backend & data** | FastAPI, Node.js, REST APIs, PostgreSQL, MySQL, Firebase |
-| **Frontend** | Vue.js, Three.js, HTML, CSS |
-| **Tools & AI** | Docker, Git, Claude Code, GPT agents |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,java" height="40" alt="Python, JavaScript, Java" /> &nbsp;SQL |
+| **Backend & data** | <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,firebase" height="40" alt="FastAPI, Node.js, PostgreSQL, MySQL, Firebase" /> &nbsp;REST APIs |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=vue,threejs,html,css" height="40" alt="Vue.js, Three.js, HTML, CSS" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=docker,git" height="40" alt="Docker, Git" /> |
+| **AI tools** | Claude Code, GPT agents |
 | **Business** | Requirements gathering, business process analysis, Agile/Scrum |
 
 ## Contact
